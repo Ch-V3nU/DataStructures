@@ -1,0 +1,20 @@
+anonymus@anonymus-Modern-14-B10MW:~/Documents/DS$ python3 sll.py 
+Linked List: 
+10-->15-->30-->None
+Enter the value to add at Beggining of linked LIst: 5
+5-->3-->6-->9-->15-->30-->None
+Enter the value to add at Ending of linked list: 35
+5-->3-->6-->9-->15-->30-->35-->None
+Enter value to add in linked list: 6
+Enter the value of linked list to add new val after it: 5
+5-->6-->3-->6-->9-->15-->30-->35-->None
+linked list after deletion of first node: 
+6-->3-->6-->9-->15-->30-->35-->None
+linked list after deletion of Lasf node: 
+6-->3-->6-->9-->15-->30-->None
+Enter val to remove in linked list: 6
+3-->6-->9-->15-->30-->None
+Linked list after sorting in ascending order: 
+3-->6-->9-->15-->30-->None
+Linked list after reversin the elements: 
+30-->15-->9-->6-->3-->None
