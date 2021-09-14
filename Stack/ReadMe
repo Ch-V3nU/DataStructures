@@ -1,0 +1,8 @@
+anonymus@anonymus-Modern-14-B10MW:~/Documents/DS$ python3 stack.py 
+pushed element is 1
+pushed element is 2
+pushed element is 3
+Top of stack is: 3
+Removed element is: 3
+Top of stack is: 2
+Elements of stack is:  2 1 
