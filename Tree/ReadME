@@ -1,0 +1,16 @@
+       Tree:
+             3
+           /  \
+          3     10 
+         / \     \
+        2        66
+       /
+      2
+     /
+    1
+
+anonymus@anonymus-Modern-14-B10MW:~/Documents/DS$ python3 Tree.py 
+Tre Traversal: 1 2 2 3 3 10 66 
+Inorder Traversal:1 2 2 3 3 10 66 
+Preoder Traversal: 10 1 2 2 3 3 66 
+Postorder Traversal: 2 3 3 2 1 66 10 
